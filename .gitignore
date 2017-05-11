@@ -1,0 +1,10 @@
+.idea/
+*.iml
+out
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+.glide/
